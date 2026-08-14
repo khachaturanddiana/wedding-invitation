@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="373" height="305" viewBox="0 0 373 305" fill="none">
+  <g font-family="Arial, Helvetica, sans-serif">
+    <!-- Month + year -->
+    <text x="80" y="39" font-size="30" font-weight="500" letter-spacing="1" fill="#0C0C0C">Октябрь 2026</text>
+
+    <!-- Weekday abbreviations (Mon–Sun) -->
+    <text font-size="22" font-weight="500" text-anchor="middle" fill="#0C0C0C">
+      <tspan x="19.5" y="84">Пн</tspan>
+      <tspan x="74.5" y="84">Вт</tspan>
+      <tspan x="128.5" y="84">Ср</tspan>
+      <tspan x="183.5" y="84">Чт</tspan>
+      <tspan x="239" y="84">Пт</tspan>
+      <tspan x="297.5" y="84">Сб</tspan>
+      <tspan x="354" y="84">Вс</tspan>
+    </text>
+
+    <!-- Calendar dates: October 2026 (starts Thursday) -->
+    <text font-size="20" font-weight="400" text-anchor="middle" fill="#0C0C0C">
+      <!-- Week 1: Thu=1, Fri=2, Sat=3, Sun=4 -->
+      <tspan x="183.5" y="118">1</tspan>
+      <tspan x="239" y="118">2</tspan>
+      <tspan x="297.5" y="118">3</tspan>
+      <tspan x="354" y="118">4</tspan>
+
+      <!-- Week 2 -->
+      <tspan x="19.5" y="162">5</tspan>
+      <tspan x="74.5" y="162">6</tspan>
+      <tspan x="128.5" y="162">7</tspan>
+      <tspan x="183.5" y="162">8</tspan>
+      <tspan x="239" y="162">9</tspan>
+      <tspan x="297.5" y="162">10</tspan>
+      <tspan x="354" y="162">11</tspan>
+
+      <!-- Week 3 -->
+      <tspan x="19.5" y="206">12</tspan>
+      <tspan x="74.5" y="206">13</tspan>
+      <tspan x="128.5" y="206">14</tspan>
+      <tspan x="183.5" y="206">15</tspan>
+      <tspan x="239" y="206">16</tspan>
+      <tspan x="297.5" y="206">17</tspan>
+      <tspan x="354" y="206">18</tspan>
+
+      <!-- Week 4 -->
+      <tspan x="19.5" y="250">19</tspan>
+      <tspan x="74.5" y="250">20</tspan>
+      <tspan x="128.5" y="250">21</tspan>
+      <tspan x="183.5" y="250">22</tspan>
+      <tspan x="239" y="250">23</tspan>
+      <tspan x="297.5" y="250">24</tspan>
+      <tspan x="354" y="250">25</tspan>
+
+      <!-- Week 5 -->
+      <tspan x="19.5" y="294">26</tspan>
+      <tspan x="74.5" y="294">27</tspan>
+      <tspan x="128.5" y="294">28</tspan>
+      <tspan x="183.5" y="294">29</tspan>
+      <tspan x="239" y="294">30</tspan>
+      <tspan x="297.5" y="294">31</tspan>
+    </text>
+  </g>
+</svg>
